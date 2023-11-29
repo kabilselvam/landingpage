@@ -107,4 +107,4 @@ function addToCart(productName, price) {
 }
 ```
 ## Output
-![OUTPUT](./land.png)
+![OUTPUT](./out2.png)
